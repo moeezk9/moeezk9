@@ -7,7 +7,7 @@
 
 
 ## Hi there 👋,           
-#### Currently working as a Senior Software Engineer at Turing, with experience across frontend, backend, and AI-driven systems. My focus is on building scalable and database-driven systems that reduce the need for code changes and ensure seamless functionality across multiple clients. I have hands-on experience with ETL pipelines, AI, and machine learning, including working with LLMs, CNNs, and Retrieval-Augmented Generation (RAG) using LangChain. I’ve fine-tuned transformer-based models for various NLP tasks such as text generation, sentiment analysis, and question answering. My work also involves exploring advanced deep learning techniques like attention mechanisms and transfer learning. I am always eager to learn, adapt, and take on new challenges.
+#### Currently working as a Senior Software Engineer at BAS, with experience across frontend, backend, and AI-driven systems. My focus is on building scalable and database-driven systems that reduce the need for code changes and ensure seamless functionality across multiple clients. I have hands-on experience with ETL pipelines, AI, and machine learning, including working with LLMs, CNNs, and Retrieval-Augmented Generation (RAG) using LangChain. I’ve fine-tuned transformer-based models for various NLP tasks such as text generation, sentiment analysis, and question answering. My work also involves exploring advanced deep learning techniques like attention mechanisms and transfer learning. I am always eager to learn, adapt, and take on new challenges.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400px" />
 
