@@ -11,8 +11,6 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400px" />
 
-- 🔭 My Resume: <a href="https://drive.google.com/file/d/1kDJ02Cu7_0vWBSlkP9K5PKDtGcdQxePO/view" target="_blank">Link</a>
-
 - 📫 How to reach me **moeezahmedpersonal@gmail.com**
 
 
